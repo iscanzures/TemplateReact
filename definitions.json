@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Orientación Sexual",
+        "definition":"a orientación sexual se refiere a la atracción física de una persona por otras personas. Todo el mundo tiene una orientación sexual, que es integral a la identidad de la persona. La orientación sexual no guarda relación con la identidad de género o las características sexuales.",
+        "examples":["Gay", "Lesbiana", "Bisexual", "Polisexual", "Pansexual", "Omnisexual", "Skoliosexual", "Demisexual", "Grisexual", "Asexual", "Androsexual", "Ginosexual", "", "", "", "", "", "", "", ""]
+    },
+
+    {
+        "name":"Orientación Romantica",
+        "definition":"Es la atracción romantica hacia alguien, todos tenemos una orientación romantica.",
+        "examples":["Aromántica", "Biromántica", "Heteroromántico", "Homoromántico", "Panromántica", "Poliromántica", "Grisromántico", "Demiromántico", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+    },
+
+    {
+        "name":"Identidad de género",
+        "definition":"Es el genero con el que uno se identifica que puede coincidir o no con el sexo biologico.",
+        "examples":["Cisgénero", "Transgénero", "Bigenéro", "Demigenéro", "Transexual", "Agénero", "Género fluido", "Género queer", "Pangénero", "Tercer género", "Trigénero", "Poligénero", "Aporagénero", "Maverique", "Género flux", "Intergénero", "Graygender", "", "", "", ""]
+    },
+
+    {
+        "name":"Expresión de Género",
+        "definition":"Es la forma en que manifestamos nuestro género mediante nuestro comportamiento y nuestra apariencia.",
+        "examples":["Masculina", "Femenina", "Andrógina"]
+    },
+
+    {
+        "name":"Sexo biológico",
+        "definition":"Es una etiqueta que te ponen al momento de nacer, según ciertos factores médicos como tus hormonas, cromosomas y genitales.",
+        "examples":["Femenino", "Masculino", "Intersexual"]
+    }
+]
